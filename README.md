@@ -1,6 +1,6 @@
 # EMSE 2025 – Supplementary Material
 
-This repository contains the supplementary material related to the study presented in the paper *Understanding Developer Well-Being: Measuring Mental Health and Productivity in Software Teams*, submitted to the *Empirical Software Engineering* (EMSE) journal, 2025 edition. The goal of this repository is to provide open access to the research artifacts used during the data collection, analysis, and presentation phases of the study.
+This repository contains the supplementary material related to the study presented in the paper *"Understanding Developer Well-Being: Measuring Mental Health and Productivity in Software Teams"*, submitted to the *Empirical Software Engineering* (EMSE) journal, 2025 edition. The goal of this repository is to provide open access to the research artifacts used during the data collection, analysis, and presentation phases of the study.
 
 All materials provided here are anonymized and comply with ethical standards for research dissemination.
 
@@ -26,4 +26,6 @@ This directory includes all static images and graphics that were referenced in t
 For questions or further information about this dataset, please contact the corresponding author:
 
 - [Johny Arriel] – [johny.arriel@les.inf.puc-rio.br]
+- [Theo Sousa] – [theo.sousa@les.inf.puc-rio.br]
+- [Júlia Azevedo] – [julia.azevedo@les.inf.puc-rio.br]
 
