@@ -13,7 +13,7 @@ This file contains the complete dataset of responses collected through the surve
 This file provides the transcribed responses from the semi-structured interviews conducted with 22 participants. The content reflects the qualitative insights gathered during the interviews and was used in the thematic analysis phase of the study.
 
 ### 📄 `coding_RQs.xlsx`
-This spreadsheet contains the intermediate coding structures developed during the analysis of the survey and interview data. The codes were iteratively developed and grouped around the research questions (RQs) to form clusters and themes. This artifact documents the qualitative data analysis process and supports the traceability and reproducibility of our findings.
+This file contains the intermediate coding structures developed during the analysis of the survey and interview data. The codes were iteratively developed and grouped around the research questions (RQs) to form clusters and themes. This artifact documents the qualitative data analysis process and supports the traceability and reproducibility of our findings.
 
 ### 📄 `SMP_graphics.ipynb`
 A Jupyter Notebook used to generate the visual representations (e.g., bar charts, pie charts, thematic mappings) included in the article. This notebook contains both the data processing steps and the plotting logic, making it possible to reproduce or adapt the graphics presented in the paper.
