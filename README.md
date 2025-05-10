@@ -23,7 +23,7 @@ This directory includes all static images and graphics that were referenced in t
 
 ## Contact
 
-For questions or further information about this dataset, please contact the corresponding author:
+For questions or further information about this dataset, please contact the corresponding authors:
 
 - [Johny Arriel] – [johny.arriel@les.inf.puc-rio.br]
 - [Theo Sousa] – [theo.sousa@les.inf.puc-rio.br]
